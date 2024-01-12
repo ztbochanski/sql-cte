@@ -12,7 +12,6 @@
 ### 3. Analyze the data
 - Buid models
 - Evaluate models
-- Perform data mining and feature engineering
 
 ### 4. Visualize the data
 - Translate complex data into simple visuals
