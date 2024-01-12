@@ -20,6 +20,7 @@
 ### 4. Visualize the data
 - Translate complex data into simple visuals
 - Show data dimensionality clearly
+- Streamlit with Matplotlib, Seaborn, Plotly
 
 ### 5. Present findings
 - Translate complex data into a story that easily answers the question
