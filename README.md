@@ -9,9 +9,12 @@
 - Clean (nan, null, duplicates, outliers)
 - Transform (data types, normalization, scaling, enocode, binning: ie convert numerical to categorical, feature engineering, feature selection, feature extraction)
 
-### 3. Analyze the data
-- Buid models
-- Evaluate models
+### 3. Analyze the data (build model/algorithm)
+- Classification (supervised learning)
+- Clustering (unsupervised learning)
+- Regression (supervised learning)
+- Decision Trees (supervised learning)
+- Random Forest (supervised learning)
 
 ### 4. Visualize the data
 - Translate complex data into simple visuals
