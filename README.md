@@ -5,7 +5,7 @@
 ### 1. Identify the question
 - Goal of the analysis
 
-### 2. Prepare the data
+### 2. Prepare the data (ETL)
 - Clean (nan, null, duplicates, outliers)
 - Transform (data types, normalization, scaling, enocode, binning: ie convert numerical to categorical, feature engineering, feature selection, feature extraction)
 
